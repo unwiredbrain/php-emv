@@ -8,7 +8,7 @@ The recommended way to install PHP EMV is through [Composer][COMPOSER]:
 
 ```json
 {
-    require: {
+    "require": {
         "unwiredbrain/php-emv": "@stable"
     }
 }
